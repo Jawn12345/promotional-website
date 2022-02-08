@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+}
+
+body, html {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: #111;
+    color: #fff;
+}
+
+.parentOtterFacts {
+    text-align: left;
+}
+
+.childOtterFacts {
+    display: inline-block;
+    vertical-align: top;
+    height: 300px;
+}
+
+.childOtterFactsImg2 img {
+    height: 300px;
+}
+
+.childKeystone img {
+    height: 500px;
+}
+
+.childGroomingOtters img{
+    height: 300px;
+}
+
+.childPups img {
+    height: 300px;
+}
+
+.childHands img {
+    height: 300px;
+}
+
+.childRaft img {
+    height: 300px;
+}
+
+.childProtect img {
+    height: 300px;
+}
