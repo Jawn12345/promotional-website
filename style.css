@@ -4,7 +4,9 @@
 
 body, html {
     padding: 0px;
-    margin: 0px;
+    margin: 50px;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 
 body {
@@ -12,40 +14,102 @@ body {
     color: #fff;
 }
 
+.parentHeader {
+    width: 600px;
+    background-color: darkblue;
+    padding: 10px;
+    border: 5px solid white;
+}
+
 .parentOtterFacts {
     text-align: left;
+    width: 600px;
+    background-color: darkblue;
+    padding: 10px;
+    border: 5px solid white;
 }
 
 .childOtterFacts {
-    display: inline-block;
+    display: block;
     vertical-align: top;
     height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.childOtterFacts img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .childOtterFactsImg2 img {
     height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.parentCuteOtters {
+    width: 600px;
+    background-color: darkblue;
+    padding: 10px;
+    border: 5px solid white;
 }
 
 .childKeystone img {
     height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .childGroomingOtters img{
     height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .childPups img {
     height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.childVideoTools iframe {
+    width: 560px;
+    height: 315px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .childHands img {
     height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .childRaft img {
     height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.parentFutureOtters {
+    width: 600px;
+    background-color: darkblue;
+    padding: 10px;
+    border: 5px solid white;
 }
 
 .childProtect img {
     height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
