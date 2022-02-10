@@ -13,6 +13,17 @@ body {
     background-color: #ffd700;
     color: #fff;
     font-size: 1.4em;
+    font-family: 'Signika Negative', sans-serif;
+}
+
+h1 {
+    color: white;
+    text-shadow: -2px 0 navy, 0 2px navy, 2px 0 navy, 0 -2px navy;
+}
+
+h2 {
+    color: black;
+    text-shadow: -2px 0 white, 0 2px white, 2px 0 white, 0 -2px white;
 }
 
 .parentHeader {
@@ -34,9 +45,9 @@ body {
 .parentOtterFacts {
     text-align: left;
     width: 95%;
-    background-color: OrangeRed; /*darkblue;*/
+    background-color: Orange; /*darkblue;*/
     color: black;
-    border: 5px solid OrangeRed;
+    border: 5px solid Orange;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 10px;
@@ -74,10 +85,10 @@ body {
 
 .parentCuteOtters {
     width: 95%;
-    background-color: DarkOrchid; /*darkblue;*/
+    background-color: #00cc66; /*darkblue;*/
     color: black;
     padding: 10px;
-    border: 5px solid DarkOrchid;
+    border: 5px solid #00cc66;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 10px;
