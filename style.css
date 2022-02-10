@@ -23,6 +23,7 @@ body {
     border: 5px solid paleturquoise;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 10px;
     padding-right: 150px;
     padding-left: 150px;
     padding-top: 20px:
@@ -38,6 +39,7 @@ body {
     border: 5px solid OrangeRed;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 10px;
     padding-right: 150px;
     padding-left: 150px;
     padding-top: 20px:
@@ -78,6 +80,7 @@ body {
     border: 5px solid DarkOrchid;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 10px;
     padding-right: 150px;
     padding-left: 150px;
     padding-top: 20px:
