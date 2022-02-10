@@ -10,23 +10,25 @@ body, html {
 }
 
 body {
-    background-color: #111;
+    background-color: #ffd700;
     color: #fff;
 }
 
 .parentHeader {
     width: 600px;
-    background-color: darkblue;
+    background-color: paleturquoise; /*darkblue;*/
+    color: black;
     padding: 10px;
-    border: 5px solid white;
+    border: 5px solid paleturquoise;
 }
 
 .parentOtterFacts {
     text-align: left;
     width: 600px;
-    background-color: darkblue;
+    background-color: OrangeRed; /*darkblue;*/
+    color: black;
     padding: 10px;
-    border: 5px solid white;
+    border: 5px solid OrangeRed;
 }
 
 .childOtterFacts {
@@ -41,6 +43,8 @@ body {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    padding: 0px;
+    border: 5px solid yellow;
 }
 
 .childOtterFactsImg2 img {
@@ -52,9 +56,10 @@ body {
 
 .parentCuteOtters {
     width: 600px;
-    background-color: darkblue;
+    background-color: DarkOrchid; /*darkblue;*/
+    color: black;
     padding: 10px;
-    border: 5px solid white;
+    border: 5px solid DarkOrchid;
 }
 
 .childKeystone img {
@@ -62,6 +67,8 @@ body {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    padding: 0px;
+    border: 5px solid purple;
 }
 
 .childGroomingOtters img{
@@ -69,6 +76,8 @@ body {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    padding: 0px;
+    border: 5px solid yellow;
 }
 
 .childPups img {
@@ -76,6 +85,8 @@ body {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    padding: 0px;
+    border: 5px solid purple;
 }
 
 .childVideoTools iframe {
@@ -84,6 +95,8 @@ body {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    padding: 0px;
+    border: 5px solid yellow;
 }
 
 .childHands img {
@@ -91,6 +104,8 @@ body {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    padding: 0px;
+    border: 5px solid purple;
 }
 
 .childRaft img {
@@ -98,13 +113,16 @@ body {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    padding: 0px;
+    border: 5px solid yellow;
 }
 
 .parentFutureOtters {
     width: 600px;
-    background-color: darkblue;
+    background-color: lightcyan; /*darkblue;*/
+    color: black;
     padding: 10px;
-    border: 5px solid white;
+    border: 5px solid lightcyan;
 }
 
 .childProtect img {
@@ -112,4 +130,6 @@ body {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    padding: 0px;
+    border: 5px solid purple;
 }
